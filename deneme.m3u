@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x9kHsXo.png",Slow Karadeniz
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdKQalW.png",Slow Karadeniz
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
@@ -27,13 +27,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.imgur.com/kb165Ot.png",EuroStar TV
-https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/NM2eYgs.png",Show Türk
-https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x9kHsXo.png",Sancak Tv
-https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x9kHsXo.png",Cine5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdKQalW.png",Cine5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x9kHsXo.png",Yerli Film Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdKQalW.png",Yerli Film Tv
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
