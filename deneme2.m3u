@@ -1,8 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdKQalW.png",Slow Karadeniz
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png",Star TV
@@ -19,31 +17,27 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-logo="https://i.imgur.com/9ZKqdQJ.png",KRT
 https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLASH TV" ,FLASH HABER
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1" ,TELE 1
+https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://i.imgur.com/JgUzRH8.png",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" ,TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" ,TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdKQalW.png",Cine5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdKQalW.png",Yerli Film Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdKQalW.png",YFilm Tv
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" ,NHT SİNEMA
+#EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" ,NTH SİNEMA
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" ,BLU TV PLAY 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SANCAK TV" ,SANCAK TV
 https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FLASH TV" ,FLASH TV
-https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KRT" ,KRT
-https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE 1" ,TELE 1
-https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" ,TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" ,TRT SPOR YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
