@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdKQalW.png",Slow Karadeniz
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png",Star TV
