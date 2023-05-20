@@ -8,7 +8,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png",Show TV
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="https://i.imgur.com/homSiDa.png",Fox TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png",TV 8
@@ -33,13 +33,3 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdKQalW.png",Cine5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdKQalW.png",YFilm Tv
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" ,NTH SİNEMA
-https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" ,BLU TV PLAY 2
-http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SANCAK TV" ,SANCAK TV
-https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
