@@ -1,8 +1,8 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Slow Karadeniz
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9O3DHRB.png",Star TV
@@ -19,25 +19,25 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ZKqdQJ.png",KRT
 https://krt.blutv.com/blutv_krt_live/live.m3u8
-#EXTINF:-1 tvg-name="FLASH TV" ,FLASH HABER
+#EXTINF:-1 tvg-logo="https://medyatrend.net/wp-content/uploads/2022/04/CNxNSLA-_400x400.jpg",FLASH HABER
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TELE 1" ,TELE 1
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/8/23/20/imgbin-tele1-television-turkey-t-rksat-news-others-YESQJm0k6Tid6As7hwwUdpRWB.jpg",TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" ,TRT SPOR
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-televizyon-kanali.0fcf904.png",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" ,TRT SPOR YILDIZ
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-yildiz-televizyon-kanali.588596f.png",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9kHsXo.png",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:0 tvg-logo="",AfyonTurk TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",AfyonTurk TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-#EXTINF:0 tvg-logo="",Isvicre TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Isvicre TV
 http://tv56245.ozelip.com:2052/isvicretv/isvicretv/supersatforum_chunklist.m3u8
-#EXTINF:0 tvg-logo="",NTN HD Sinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",NTN HD Sinema
 https://tv.ntnhd.com:3588/multi_web/play.m3u8
-#EXTINF:0 tvg-logo="",Ada TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Ada TV
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
