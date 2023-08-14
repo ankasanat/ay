@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Slow Karadeniz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Karadeniz
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
