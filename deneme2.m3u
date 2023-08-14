@@ -33,13 +33,9 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9kHsXo.png",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",AfyonTurk TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Film Tv1
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Isvicre TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Film Tv2
 http://tv56245.ozelip.com:2052/isvicretv/isvicretv/supersatforum_chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",NTN HD Sinema
-https://tv.ntnhd.com:3588/multi_web/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Ada TV
-https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.globya.com.tr/wp-content/uploads/2016/03/clients-06.png",ATV
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20182
