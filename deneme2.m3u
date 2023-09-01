@@ -1,17 +1,17 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Karadeniz
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/TRT1.tr.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/KanalD.tr.png",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9O3DHRB.png",Star TV
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/StarTV.tr.png",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1l7SCCu.png",Show TV
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ShowTV.tr.png",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/homSiDa.png",Fox TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKNwiDm.png",TV 8
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/TV8.tr.png",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agn47sQ.png",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -21,17 +21,17 @@ https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-televizyon-kanali.0fcf904.png",TRT Spor
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/TRTSpor.tr.png",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-yildiz-televizyon-kanali.588596f.png",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",Teve 2
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/TV2.tr.png",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal1.png",Film Tv1
 http://lideriptv245.xyz:8080/mrtttu/mrtttu/110264
 #EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal2.png",Film Tv1
 http://lideriptv245.xyz:8080/mrtttu/mrtttu/110265
-#EXTINF:-1 tvg-logo="https://www.globya.com.tr/wp-content/uploads/2016/03/clients-06.png",ATV
-http://minnos.org:8080/Ali124/JU7YZ44B/3
-#EXTINF:-1 tvg-logo="https://www.globya.com.tr/wp-content/uploads/2016/03/clients-06.png",ATV
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",ATV
+http://zyniptv.com:8080/iptv-volkan/HZS49fEXSgye/107236
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",ATV
 http://minnos.org:8080/live/Ali124/JU7YZ44B/3.ts
