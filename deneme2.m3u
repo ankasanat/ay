@@ -29,8 +29,10 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal1.png",Film Tv1
 http://lideriptv245.xyz:8080/mrtttu/mrtttu/110264
-#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal2.png",Film Tv1
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal2.png",Film Tv2
 http://lideriptv245.xyz:8080/mrtttu/mrtttu/110265
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal2.png",Film Tv3
+http://minnos.org:8080/Ali124/JU7YZ44B/1166
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",ATV
 http://zyniptv.com:8080/iptv-volkan/HZS49fEXSgye/107236
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",ATV
