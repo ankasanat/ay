@@ -13,6 +13,8 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/a2tv.tr.png",A2
 http://lideriptv245.xyz:8080/mrtttu/mrtttu/109968
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/a2tv.tr.png",A2
+http://lideriptv245.xyz:8080/mrtttu/mrtttu/109968
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/TV8.tr.png",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agn47sQ.png",360 TV
