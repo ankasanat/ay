@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,TRT 1
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,KANAL D
+http://195.142.1.211:4002/udp/224.2.2.9:10001
+#EXTINF:-1,STAR
+http://195.142.1.211:4002/udp/224.2.2.1:10001
+#EXTINF:-1,ATV
+http://195.142.1.211:4002/udp/224.2.2.19:10001
+#EXTINF:-1,Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1,FOX
+http://195.142.1.211:4002/udp/224.2.2.25:10001
+#EXTINF:-1,360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1,TV8
+http://195.142.1.211:4002/udp/224.2.2.33:10001
+#EXTINF:-1,TV 8&#44;5
+http://195.142.1.211:4002/udp/224.2.2.34:10001
+#EXTINF:-1,TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,BEIN SPORTS HABER
+http://195.142.1.211:4002/udp/224.2.2.49:10001
+#EXTINF:-1,KRT
+https://krt.blutv.com/blutv_krt_live/live.m3u8
