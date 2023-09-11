@@ -15,7 +15,7 @@ http://195.142.1.211:4002/udp/224.2.2.25:10001
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1,TV8
 http://195.142.1.211:4002/udp/224.2.2.33:10001
-#EXTINF:-1,TV 8&#44;5
+#EXTINF:-1,TV 8,5
 http://195.142.1.211:4002/udp/224.2.2.34:10001
 #EXTINF:-1,TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
