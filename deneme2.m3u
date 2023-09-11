@@ -17,13 +17,13 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agn47sQ.png",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ZKqdQJ.png",KRT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ZKqdQJ.png",Krt
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",Trt Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/TRTSpor.tr.png",Trt Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-yildiz-televizyon-kanali.588596f.png",Trt Spor Yıldız
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-yildiz-televizyon-kanali.588596f.png",Trt Spor Y
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ASpor.tr.png",A Spor
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
