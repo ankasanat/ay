@@ -26,7 +26,7 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-yildiz-televizyon-kanali.588596f.png",Trt Spor Y
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ASpor.tr.png",A Spor
-https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+http://nimplus3.bozztv.com/aspor/aspor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Film Tv1
 http://minnos.org:8080/Ali124/JU7YZ44B/1166
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/a2tv.tr.png",A2
@@ -35,5 +35,7 @@ http://zyniptv.com:8080/iptv-volkan/HZS49fEXSgye/107269
 http://zyniptv.com:8080/iptv-volkan/HZS49fEXSgye/107236
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",Atv
 http://minnos.org:8080/live/Ali124/JU7YZ44B/3.ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",Atv
+http://nimplus3.bozztv.com/atv-tv/atv-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",Atv Avrupa
 http://nimplus3.bozztv.com/atvavrupa/atvavrupa/playlist.m3u8
