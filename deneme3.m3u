@@ -1,27 +1,33 @@
-#EXTM3U
-#EXTINF:-1,TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,KANAL D
-http://195.142.1.211:4002/udp/224.2.2.9:10001
-#EXTINF:-1,STAR
-http://195.142.1.211:4002/udp/224.2.2.1:10001
-#EXTINF:-1,ATV
-http://195.142.1.211:4002/udp/224.2.2.19:10001
-#EXTINF:-1,Show TV
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Karadeniz
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/TRT1.tr.png",Trt 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/KanalD.tr.png",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/StarTV.tr.png",Star
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ShowTV.tr.png",Show
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1,FOX
-http://195.142.1.211:4002/udp/224.2.2.25:10001
-#EXTINF:-1,360 TV
+#EXTINF:-1 tvg-logo="https://static.epg.best/pl/FOX.pl.png",Fox
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/TV8.tr.png",Tv8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/TV2.tr.png",Teve 2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agn47sQ.png",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1,TV8
-http://195.142.1.211:4002/udp/224.2.2.33:10001
-#EXTINF:-1,TV 85
-http://195.142.1.211:4002/udp/224.2.2.34:10001
-#EXTINF:-1,TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT SPOR YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,BEIN SPORTS HABER
-http://195.142.1.211:4002/udp/224.2.2.49:10001
-#EXTINF:-1,KRT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ZKqdQJ.png",Krt
 https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",Trt Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/TRTSpor.tr.png",Trt Spor
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-yildiz-televizyon-kanali.588596f.png",Trt Spor Y
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Film Tv
+http://minnos.org:8080/Ali124/JU7YZ44B/1166
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",Atv
+http://195.142.1.211:4002/udp/224.2.2.19:10001
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",Atv
+http://minnos.org:8080/live/Ali124/JU7YZ44B/3.ts
