@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Karadeniz
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1 tvg-logo="http://turkceradyo.net/wp-content/uploads/hamsi-fm.png",Hamsi FM
+http://yayin.liderhost.net:8028/;
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/TRT1.tr.png",Trt 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/KanalD.tr.png",Kanal D
