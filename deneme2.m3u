@@ -25,9 +25,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-yildiz-televizyon-kanali.588596f.png",Trt Spor Y
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Film Tv
-http://minnos.org:8080/Ali124/JU7YZ44B/1166
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",Atv
-http://195.142.1.211:4002/udp/224.2.2.19:10001
+http://zyniptv.com:8080/iptv-volkan/HZS49fEXSgye/107236
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",Atv
-http://minnos.org:8080/live/Ali124/JU7YZ44B/3.ts
+http://zyniptv.com:8080/iptv-volkan/HZS49fEXSgye/107238
