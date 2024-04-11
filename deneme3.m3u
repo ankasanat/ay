@@ -9,7 +9,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ShowTV.tr.png",Show
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/pl/FOX.pl.png",Fox
+#EXTINF:-1 tvg-logo="https://static.epg.best/pl/FOX.pl.png",Now
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/TV8.tr.png",Tv8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
@@ -25,9 +25,5 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-yildiz-televizyon-kanali.588596f.png",Trt Spor Y
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQalW.png",Film Tv
-http://minnos.org:8080/Ali124/JU7YZ44B/1166
-#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",Atv
-http://195.142.1.211:4002/udp/224.2.2.19:10001
-#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png",Atv
-http://minnos.org:8080/live/Ali124/JU7YZ44B/3.ts
+#EXTINF:-1 tvg-logo="https://turkuradyo.net/wp-content/themes/TurkuRadyo/images/logo.png",Türkü Radyo
+https://yayin.turkhosted.com/4591/stream
