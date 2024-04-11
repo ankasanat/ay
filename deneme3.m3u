@@ -25,5 +25,19 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-spor-yildiz-televizyon-kanali.588596f.png",Trt Spor Y
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.onlineradyodinle.com.tr/kanal/radyo-kilim.png",Kilim Radyo
+https://sslyayin.netyayin.net:10946//;
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/Radyo7logo.png",Radyo 7
+http://46.20.3.250/;
 #EXTINF:-1 tvg-logo="https://turkuradyo.net/wp-content/themes/TurkuRadyo/images/logo.png",Türkü Radyo
 https://yayin.turkhosted.com/4591/stream
+#EXTINF:-1 tvg-logo="https://www.radyoekin.net/public/default/images/upload/3172121621321054.png",Radyo Ekin
+http://yayin.turkhosted.com:6006/;
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/eywz9hvpg/radyohome/media/station/57/logo_square.png",Pal Doğa
+http://shoutcast.radyogrup.com:1040/;
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Y%C3%B6n_Radyo_logosu.png",Yön Radyo
+https://stream.radyolarburada.com/radio/8020/yonradyo
+#EXTINF:-1 tvg-logo="https://www.radyoozgur.com.tr/uploads/favicon/logo2.png",Özgür Radyo
+http://95.173.188.170:9898/;
+#EXTINF:-1 tvg-logo="https://www.kemencefm.com/content/images/playerbackground.png",Kemençe FM
+https://ip132.ozelip.com/8058/;
