@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 type="stream" channelId="1055" logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png", TRT 1
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+#EXTINF:-1 type="stream" channelId="3996" logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png", atv
+http://stream.tvcdn.net/ulusal/atv.m3u8
+#EXTINF:-1 type="stream" channelId="3699" logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png", Star TV
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
+#EXTINF:-1 type="stream" channelId="1044" logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png", Kanal D
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+#EXTINF:-1 type="stream" channelId="1045" logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png", Show TV
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+#EXTINF:-1 type="stream" channelId="1047" logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png", Now TV
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+#EXTINF:-1 type="stream" channelId="3040" logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png", teve2
+http://stream.tvcdn.net/eglence/teve2.m3u8
+#EXTINF:-1 type="stream" channelId="1076" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", TV8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+#EXTINF:-1 type="stream" channelId="3983" logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png", 360 TV
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
+#EXTINF:-1 type="stream" channelId="3992" logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png", a2
+http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:-1 type="stream" channelId="-1" logo="http://assets.tvcdn.net/0081c412-7701-4115-9d32-59f54dcc0eb5.png", KRT TV
+http://stream.tvcdn.net/haber/krt-tv.m3u8
+#EXTINF:-1 type="stream" channelId="-1" logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png", Sözcü TV
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
+#EXTINF:-1 type="stream" channelId="-1" logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png", Tele 1
+http://stream.tvcdn.net/haber/tele-1.m3u8
+#EXTINF:-1 type="stream" channelId="1061" logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png", Flash Haber
+http://stream.tvcdn.net/haber/flash-haber.m3u8
+#EXTINF:-1 type="stream" channelId="1094" logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png", Yol TV
+http://stream.tvcdn.net/haber/yol-tv.m3u8
+#EXTINF:-1 type="stream" channelId="2970" logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png", TRT 2
+http://stream.tvcdn.net/eglence/trt-2.m3u8
+#EXTINF:-1 type="stream" channelId="4632" logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png", Show Max
+http://stream.tvcdn.net/eglence/show-max.m3u8
+#EXTINF:-1 type="stream" channelId="4631" logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png", Show Türk
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+#EXTINF:-1 type="stream" channelId="4630" logo="http://assets.tvcdn.net/4e308235-1cc2-4e7e-acb5-cba6c0766ee8.png", Euro Star
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
+#EXTINF:-1 type="stream" channelId="4629" logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png", Euro D
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
+#EXTINF:-1 type="stream" channelId="1128" logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png", TV 4
+http://stream.tvcdn.net/eglence/tv-4.m3u8
+#EXTINF:-1 type="stream" channelId="3991" logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png", TV8.5
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
+#EXTINF:-1 type="stream" channelId="1060" logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png", TRT Spor
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:-1 type="stream" channelId="-1" logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png", TRT Spor Yıldız
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+#EXTINF:-1 type="stream" channelId="3089" logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png", A Spor
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 type="stream" channelId="1092" logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png", TRT Belgesel
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:-1 type="stream" channelId="-1" logo="http://assets.tvcdn.net/bd3b49c4-ed93-40a2-9187-88f1b6e94064.png", Solaklı TV
+http://stream.tvcdn.net/diger-muzik/solakli-tv.m3u8
+#EXTINF:-1 type="stream" channelId="-1" logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png", Şaban TV
+http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
+#EXTINF:-1 type="stream" channelId="-1" logo="http://assets.tvcdn.net/8d5c3dfd-84de-464d-9a08-ed769ed72589.png", Afyon Türk
+http://stream.tvcdn.net/diger-eglence/afyon-turk.m3u8
+#EXTINF:-1 type="stream" channelId="-1" logo="http://assets.tvcdn.net/d1f14d94-0c2a-4c89-8364-a04f9a382a17.jpg", Uluslararası TV
+http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
