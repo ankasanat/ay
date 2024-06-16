@@ -57,5 +57,7 @@ http://stream.tvcdn.net/diger-muzik/solakli-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
 #EXTINF:-1 type="stream" channelId="-1" logo="http://assets.tvcdn.net/8d5c3dfd-84de-464d-9a08-ed769ed72589.png", Afyon Türk
 http://stream.tvcdn.net/diger-eglence/afyon-turk.m3u8
+#EXTINF:-1 tvg-id="CagriTV.tr" tvg-logo="http://assets.tvcdn.net/3ac45b9f-5daf-4c45-b748-fb522296f432.jpg",Çağrı TV
+http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
 #EXTINF:-1 type="stream" channelId="-1" logo="http://assets.tvcdn.net/d1f14d94-0c2a-4c89-8364-a04f9a382a17.jpg", Uluslararası TV
 http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
