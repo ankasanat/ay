@@ -29,6 +29,8 @@ http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png", Dizi Film TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/7f29a6f5-5ae4-4bcb-a9d6-26a11b781dd9.png", Güldür Güldür
+http://stream.tvcdn.net/dizi-youtube/guldur-guldur.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/Radyo7logo.png",Radyo 7
 http://46.20.3.250/;
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/eywz9hvpg/radyohome/media/station/57/logo_square.png",Pal Doğa
