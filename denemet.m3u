@@ -41,6 +41,10 @@ http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 type="stream" channelId="1092" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png", TRT Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:-1 type="stream" channelId="1055" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png", TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 type="stream" channelId="1060" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png", TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/bd3b49c4-ed93-40a2-9187-88f1b6e94064.png", Solaklı TV
 http://stream.tvcdn.net/diger-muzik/solakli-tv.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png", Şaban TV
