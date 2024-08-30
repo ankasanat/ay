@@ -15,10 +15,6 @@ http://stream.tvcdn.net/ulusal/now-tv.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 type="stream" channelId="3983" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png", 360 TV
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
-#EXTINF:-1 type="stream" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png", Dizi Film TV
-http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:-1 tvg-id="MaviKaradenizTV.tr" tvg-logo="http://assets.tvcdn.net/5175fea1-0cc0-485d-9b66-01fe886b0f64.png",Mavi Karadeniz
-http://stream.tvcdn.net/yerel/mavi-karadeniz.m3u8
 #EXTINF:-1 type="stream" channelId="1061" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png", Halk TV
 http://stream.tvcdn.net/haber/halk-tv.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png", Sözcü TV
@@ -39,7 +35,5 @@ http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 type="stream" channelId="1092" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png", TRT Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/d1f14d94-0c2a-4c89-8364-a04f9a382a17.jpg", Film TV
-http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/7f29a6f5-5ae4-4bcb-a9d6-26a11b781dd9.png", Güldür Güldür
-http://stream.tvcdn.net/dizi-youtube/guldur-guldur.m3u8
+https://ythls-v3.onrender.com/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
