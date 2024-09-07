@@ -35,5 +35,7 @@ http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 type="stream" channelId="1092" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png", TRT Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://www.superkablonet.com/yukleme/download/172.png", Komik Film TV
+https://ythls-v3.onrender.com/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/7f29a6f5-5ae4-4bcb-a9d6-26a11b781dd9.png", Güldür Güldür
 https://ythls-v3.onrender.com/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
