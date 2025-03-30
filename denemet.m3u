@@ -10,7 +10,7 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 type="stream" channelId="1045" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png", Show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1 type="stream" channelId="1047" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png", Now TV
-https://c.fulltvizle.com/fox/index.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_360p.m3u8
 #EXTINF:-1 type="stream" channelId="1076" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", TV8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 type="stream" channelId="3983" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png", 360 TV
@@ -22,10 +22,10 @@ http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:-1 type="stream" channelId="1060" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png", TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png", TRT Spor Yıldız
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 type="stream" channelId="3089" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png", A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 type="stream" channelId="1092" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png", TRT Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:-1 type="stream" channelId="1047" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png", Now TV
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=xCwFFa5ue_7eSZI8OsSUsw&e=1738048506
+#EXTINF:-1 type="stream" channelId="3996" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png", atv
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
