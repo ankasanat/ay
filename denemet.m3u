@@ -6,7 +6,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 type="stream" channelId="3699" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png", Star TV
 https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
 #EXTINF:-1 type="stream" channelId="1044" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png", Kanal D
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_360p.m3u8
 #EXTINF:-1 type="stream" channelId="1045" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png", Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_360p.m3u8
 #EXTINF:-1 type="stream" channelId="1047" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png", Now TV
