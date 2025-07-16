@@ -2,35 +2,35 @@
 #EXTINF:-1 tvg-logo="https://www.kemencefm.com/content/images/playerbackground.png",Kemençe FM
 https://ip132.ozelip.com/8058/;
 #EXTINF:-1 type="stream" channelId="1055" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png", TRT 1
-https://tv-trt1.medya.trt.com.tr/master_360.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 type="stream" channelId="3996" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png", atv
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 type="stream" channelId="3699" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png", Star TV
-https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 type="stream" channelId="1044" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png", Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_360p.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 #EXTINF:-1 type="stream" channelId="1045" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png", Show TV
-https://ciner-live.daioncdn.net/showtv/showtv_360p.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 type="stream" channelId="1047" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png", Now TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_360p.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 type="stream" channelId="1076" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", TV8
-https://tv8-live.daioncdn.net/tv8/tv8_360p.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 type="stream" channelId="3996" tvg-logo="https://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png", Teve 2
-https://demiroren-live.daioncdn.net/teve2/teve2_360p.m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+#EXTINF:-1 type="stream" channelId="3996" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png", a2
+https://trkvz-live.daioncdn.net/a2tv/a2tv_720p.m3u8
 #EXTINF:-1 type="stream" channelId="3983" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png", 360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360_360p.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 type="stream" channelId="1061" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png", Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv_360p.m3u8
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png", Sözcü TV
 http://185.234.111.229:8000/play/a00y
 #EXTINF:-1 type="stream" channelId="1060" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png", TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master_360.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png", TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_360.m3u8
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 type="stream" channelId="3089" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png", A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_360p.m3u8
-#EXTINF:-1 type="stream" channelId="1092" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png", TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_360.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/Radyo7logo.png",Radyo 7
 http://46.20.3.250/;
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/eywz9hvpg/radyohome/media/station/57/logo_square.png",Pal Doğa
