@@ -13,14 +13,14 @@ https://ciner-live.daioncdn.net/showtv/showtv_360p.m3u8
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_360p.m3u8
 #EXTINF:-1 type="stream" channelId="1076" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", TV8
 https://tv8-live.daioncdn.net/tv8/tv8_360p.m3u8
-#EXTINF:-1 type="stream" channelId="3996" tvg-logo="https://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png", Teve 2
+#EXTINF:-1 type="stream" channelId="3996" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png", Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_360p.m3u8
 #EXTINF:-1 type="stream" channelId="3983" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png", 360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_360p.m3u8
 #EXTINF:-1 type="stream" channelId="1061" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png", Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_360p.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png", Sözcü TV
-http://185.234.111.229:8000/play/a00y
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1 type="stream" channelId="1060" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png", TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_360.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png", TRT Spor Yıldız
